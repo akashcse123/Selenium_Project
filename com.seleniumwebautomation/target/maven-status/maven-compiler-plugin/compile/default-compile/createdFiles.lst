@@ -1,4 +1,0 @@
-base\BaseTest.class
-com\seleniumwebautomation\LoginPage.class
-Utils\ConfigReader.class
-com\seleniumwebautomation\HomePage.class
